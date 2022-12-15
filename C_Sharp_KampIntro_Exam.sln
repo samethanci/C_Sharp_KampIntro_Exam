@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Day_Exam", "3_Day_Exam\3_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{0592A1F4-2228-40BD-845F-ED798A83D472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{20FD127A-645E-46E6-9101-65B9F93AD31A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{20FD127A-645E-46E6-9101-65B9F93AD31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Abstract_Class", "Interface_Abstract_Class\Interface_Abstract_Class.csproj", "{BBDE8D78-7BBC-4822-A340-CDE40FE9FA63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{20FD127A-645E-46E6-9101-65B9F93AD31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20FD127A-645E-46E6-9101-65B9F93AD31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20FD127A-645E-46E6-9101-65B9F93AD31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDE8D78-7BBC-4822-A340-CDE40FE9FA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDE8D78-7BBC-4822-A340-CDE40FE9FA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDE8D78-7BBC-4822-A340-CDE40FE9FA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDE8D78-7BBC-4822-A340-CDE40FE9FA63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
